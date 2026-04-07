@@ -13,5 +13,5 @@ Projeto realizado com o intuito de treinar modelagem de dados.
 
 Foi utilizado o data set denominado "Student Exam Performance Dataset Analysis", obtido através do kaggle [aqui](https://www.kaggle.com/datasets/grandmaster07/student-exam-performance-dataset-analysis).
 
-> Plot previsão do modelo
+# Plot previsão do modelo
 ![Predict](predict.png)
